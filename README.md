@@ -1,6 +1,6 @@
-# My Next.js App with Tailwind and TypeScript
+# Sales Dashboard Demo
 
-Welcome to my Next.js application, which is integrated with Tailwind CSS for a modern look and TypeScript for added type safety.
+A sales dashboard demo built using NextJS, Tailwind, and TypeScript. (See sales-dashboard-demo-api for backend)
 
 ## Pre-requisites
 
