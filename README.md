@@ -69,8 +69,8 @@ This main component is, \_LeadsDashboard\_, a dashboard for managing leads. It a
 
 ## Login:
 
-- http/localhost:3000/ maps to /login for now. Upon starting the app, you will need to login.
--User creation is handled via django backend (sales-dashboard-demo-api). There is no way to create user on front end.
+- http://localhost:3000/ maps to /login for now. Upon starting the app, you will need to login.
+- User creation is handled via django backend (sales-dashboard-demo-api). There is no way to create user on front end.
 
 
 ## Pagination Controls:
