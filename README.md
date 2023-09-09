@@ -13,8 +13,8 @@ Follow these steps to run the application on your local machine:
 ### 1. Clone the Repository
 
 ```bash
-git clone [Your Repository URL]
-cd [Your Repository Directory]
+git clone https://github.com/NickCodesGood/sales-dashboard-demo
+cd sales-dashboard-demo
 ```
 
 ### 2. Install Dependencies
