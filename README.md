@@ -53,7 +53,6 @@ All dependencies were installed correctly. If in doubt, delete the node_modules 
 
 # Usage
 
-Userflow = Login > LeadsDashboard > Logout 
 This main component is, \_LeadsDashboard\_, a dashboard for managing leads. It allows users to add, edit, and delete leads based on certain criteria like name, email, status, and estimated sale amount. The component interacts with a backend API to fetch, create, edit, and delete the leads data. The data is paginated and the component also allows the users to change the page and the page size.
 
 # Features:
@@ -67,6 +66,12 @@ This main component is, \_LeadsDashboard\_, a dashboard for managing leads. It a
 - **Frontend Automation**: Lots of prepoulated fields, a thoughtfully designed details to enhance UX including ID -> Email visual confirmation on deletion, and Auto Fill edit fields by clicking on table rows.
 
 # Usage Steps:
+
+## Login:
+
+- http/localhost:3000/ maps to /login for now. Upon starting the app, you will need to login.
+-User creation is handled via django backend (sales-dashboard-demo-api). There is no way to create user on front end.
+
 
 ## Pagination Controls:
 
